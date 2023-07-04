@@ -3,7 +3,8 @@
 Este é um projeto de análise de propriedades imobiliárias na cidade de São Paulo. O objetivo é explorar e visualizar os dados das propriedades, realizar análises estatísticas e criar um modelo de regressão para prever os preços das propriedades.
 
 
-![ezgif com-gif-to-mp4 (1)](https://github.com/caioguimaraes18/ProjetoApartamentos/assets/111378033/4f9bf8b4-660e-4989-8402-0152860a4983)
+![ezgif com-gif-to-mp4 (1)](https://github.com/caioguimaraes18/ProjetoApartamentos/assets/111378033/b2300b25-e7ce-4d3d-a541-39ba87923fa6)
+
 
 
 ### ****🚨Descrição do Código🚨****
