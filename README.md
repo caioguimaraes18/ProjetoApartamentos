@@ -6,7 +6,7 @@ Este é um projeto de análise de propriedades imobiliárias na cidade de São P
 ![ezgif com-gif-to-mp4 (1)](https://github.com/caioguimaraes18/ProjetoApartamentos/assets/111378033/4f9bf8b4-660e-4989-8402-0152860a4983)
 
 
-### ****Descrição do Código****
+### ****🚨Descrição do Código🚨****
 
 O código consiste em um conjunto de operações realizadas em um Jupyter Notebook. Aqui está uma visão geral das principais etapas do código:
 
@@ -33,7 +33,7 @@ Além disso, as análises estatísticas e a criação do modelo de regressão aj
 
 Os resultados obtidos podem ser utilizados por investidores imobiliários, corretores de imóveis e outras partes interessadas para tomar decisões informadas sobre compra, venda ou aluguel de propriedades em São Paulo.
 
-### ****Contribuições e Licença****
+### ****📍Contribuições e Licença****
 
 Este projeto foi desenvolvido como uma demonstração de análise de dados e modelagem de machine learning. 
 
